@@ -5,7 +5,7 @@ __Purpose__: In this Challenge we are refactoring code from an SMS text classifi
   
     
 &nbsp; &nbsp; __Step 1__: Create the SMS Classification Function  
-&nbsp; &nbsp; __Step 2__: Create the SMS Prediction Function 
+&nbsp; &nbsp; __Step 2__: Create the SMS Prediction Function   
 &nbsp; &nbsp;__Step 3__: Create the Gradio Interface Application
 
 __Intalls__: A number of installations are needed (and provided) to run the code necessary to complete this project  
