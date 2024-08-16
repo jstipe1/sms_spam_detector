@@ -21,5 +21,6 @@ from sklearn.svm import LinearSVC
 [sklearn Documentation]  (https://scikit-learn.org/0.21/documentation.html)  
 
 __Resources__:  
-[Xpert Learning Assistance]   
+[Xpert Learning Assistance]  
+[Gradio Documentation] (https://gradio.app)  
 [README.md formatting] (https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796)  
